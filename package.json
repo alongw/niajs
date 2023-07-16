@@ -1,9 +1,9 @@
 {
-    "name": "template-typescript",
+    "name": "niajs",
     "version": "1.0.0",
-    "description": "ts项目模板",
+    "description": "niajs工具库，项目高频使用工具库",
     "main": "src/app.ts",
-    "repository": "https://github.com/alongw/template-typescript",
+    "repository": "https://github.com/alongw/niajs",
     "author": "alongw <alongw@alongw.cn>",
     "license": "AGPL-3.0",
     "scripts": {
